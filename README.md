@@ -1,14 +1,6 @@
 # Java Learning Roadmap 🚀
 🚀 This repository tracks my structured journey to learn Java from scratch using curated resources and a week-by-week plan.
 
-## 📁 Structure
-
-learning-roadmap/  
-├── week-01/ # Setup and environment  
-├── week-02/ # Java syntax and basics  
-├── resources/ # Notes, links, code snippets, etc.  
-├── README.md # Project overview
-
 ## 🏁 Goal
 
 To build a strong foundation in Java development and track progress through daily goals, reflections, and deliverables.
