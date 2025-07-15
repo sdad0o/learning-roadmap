@@ -1,3 +1,4 @@
+# Java Learning Roadmap 🚀
 🚀 This repository tracks my structured journey to learn Java from scratch using curated resources and a week-by-week plan.
 
 ## 📁 Structure
