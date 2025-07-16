@@ -5,12 +5,6 @@
 
 To build a strong foundation in Java development and track progress through daily goals, reflections, and deliverables.
 
-## 🏷️ Badges (coming soon)
-
-- Progress badge
-- Current module
-- Last commit
-
 ## 📚 Resources
 
 ## Java Fundamentals
